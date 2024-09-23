@@ -14,4 +14,4 @@
     - Aplicar mis habilidades en IA y machine learning para resolver problemas complejos en diversos entornos.
     - Expandir mis conocimientos y colaborar en proyectos desafiantes.
     
-📧 Contacto: Puedes comunicarte conmigo a través de [correo](mailto:ing.carlos.vnageas1@unimilitar.edu.co) para discutir cómo mi perfil puede aportar a tus proyectos.
+📧 Contacto: Puedes comunicarte conmigo a través de [correo](mailto:ing.carlos.vanegas1@gmail.com) para discutir cómo mi perfil puede aportar a tus proyectos.
