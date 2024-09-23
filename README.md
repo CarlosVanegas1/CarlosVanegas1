@@ -1,18 +1,17 @@
-👋 Hola, soy @CarlosVanegas1, soy un estudiante de noveno semestre de Ingeniería en Mecatrónica con una pasión por el manejo y análisis de bases de datos, la automatización industrial y la programación de microcontroladores.
+👋 Hola, soy @CarlosVanegas1, soy estudiante de último semestre de Ingeniería en Mecatrónica con pasión por el manejo y análisis de bases de datos, el desarrollo web, la automatización industrial y la programación de microcontroladores.
 
 🌟 Lo que ofrezco:
 
-    - Conocimientos sólidos en mecatrónica y automatización industrial.
-    - Experiencia en programación de microcontroladores.
-    - Habilidad para diseñar, implementar y mantener sistemas automatizados.
-    - Destrezas en el análisis y gestión de datos.
-    - Un enfoque orientado a soluciones y un deseo genuino de aprender y contribuir.
+    - Conocimientos sólidos en mecatrónica, automatización industrial e Inteligencia Artificial.
+    - Experiencia en programación de microcontroladores como Arduino, ESP32 y STM32.
+    - Habilidades en desarrollo backend, gestión de bases de datos (relacionales y no relacionales), e implementación de algoritmos de IA.
+    - Desarrollo de sistemas automatizados, proyectos IoT y soluciones basadas en Machine Learning.
+    - Un enfoque orientado a soluciones, con interés en el aprendizaje continuo y la colaboración en equipo.
+    
 🔍 Lo que busco:
 
-    - Una oportunidad como pasante en un entorno real de ingeniería.
-    - Aplicar y expandir mis habilidades y conocimientos.
-    - Colaborar en proyectos desafiantes y significativos.
-    - Contribuir al éxito del equipo y la organización.
-📧 Puedes contactarme a través de [correo](mailto:ing.carlos.vnageas1@unimilitar.edu.co) para discutir cómo mi perfil podría encajar con las necesidades de tu empresa u organización.
-
-¡Estoy emocionado por la posibilidad de aprender y crecer en un entorno de trabajo real y contribuir al éxito de un equipo! Gracias por considerar mi perfil.
+    - Oportunidades para contribuir en proyectos de Inteligencia Artificial, desarrollo de software, análisis de datos y automatización.
+    - Aplicar mis habilidades en IA y machine learning para resolver problemas complejos en diversos entornos.
+    - Expandir mis conocimientos y colaborar en proyectos desafiantes.
+    
+📧 Contacto: Puedes comunicarte conmigo a través de [correo](mailto:ing.carlos.vnageas1@unimilitar.edu.co) para discutir cómo mi perfil puede aportar a tus proyectos.
